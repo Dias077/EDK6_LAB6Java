@@ -1,1 +1,3 @@
-# EDK6_LAB6Java
+# EDK6_LAV6Java
+
+![Screenshot](java6.png)
